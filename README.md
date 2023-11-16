@@ -5,7 +5,7 @@
 ![cats](images/cats.jpeg)
 
 
-## Introduction
+## Introduction :(
 
 Imaginad que somos los científicos de datos de la empresa de videojuegos Tactile Entertainment. 
 
