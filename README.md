@@ -6,7 +6,7 @@
 
 
 ## Introduction
-
+Cambio para pull request
 Imaginad que somos los científicos de datos de la empresa de videojuegos Tactile Entertainment. 
 
 Los desarrolladores del juego Cookie Cats pretenden introducir un cambio en el juego para aumentar la retencion de los jugadores. En cierto nivel del juego los jugadores se encuentran una puerta que les obliga a esperar o a pagar la app. 
