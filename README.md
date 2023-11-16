@@ -1,6 +1,6 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
-# Lab | AB-Testing
+# Lab | AB-Testing.
 
 ![cats](images/cats.jpeg)
 
